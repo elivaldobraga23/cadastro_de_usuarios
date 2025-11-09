@@ -123,7 +123,3 @@ Sinta-se à vontade para clonar, modificar e aprender com ele!
 ### ⭐ Dica final
 
 Se este projeto te ajudou, **deixe uma estrela ⭐ no repositório** e continue praticando com os conteúdos do **DevClub**!
-
-```
-
-
