@@ -58,15 +58,6 @@ O objetivo do projeto é praticar os conceitos fundamentais do React — como **
 └── README.md
 ````
 
----
-
-## 📸 Demonstração
-
-> 🧩 *Exemplo da interface do projeto:*
-
-![Exemplo do projeto](./src/assets/exemplo-readme.png)
----
-
 ## ⚙️ Como executar o projeto localmente
 
 ### 1️⃣ Clonar o repositório
@@ -78,7 +69,7 @@ git clone https://github.com/elivaldobraga23/cadastro_de_usuarios.git
 ### 2️⃣ Entrar na pasta do projeto
 
 ```bash
-cd nome-do-repositorio
+cd cadastro_de_usuarios
 ```
 
 ### 3️⃣ Instalar as dependências
